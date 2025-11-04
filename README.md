@@ -70,7 +70,7 @@ Natural-Language-Processing/
 │   ├── inference.ipynb                    # Model inference and demo
 │
 ├── requirements.txt                 # List of all dependencies
-├── NER_Mountain_Report_Bilingual_with_Chart.pdf   # Final bilingual report (EN + UA)
+├── NER_Mountain_Report.pdf   # Final bilingual report (EN + UA)
 └── README.md
 ```
 
