@@ -1,0 +1,25 @@
+# Installing basic libraries for NER tasks
+# Transformers is used to load and fine-tune BERT-based models
+transformers==4.57.1
+
+# Seqeval is used to calculate evaluation metrics (precision, recall, F1) for named entity recognition
+seqeval==1.2.2
+
+# Core scientific and data manipulation libraries
+numpy>=1.24.0
+pandas>=2.0.0
+
+# PyTorch for model training and inference
+torch>=2.1.0
+
+# Utilities for dataset handling and progress tracking
+tqdm>=4.66.0
+pathlib
+typing-extensions>=4.9.0
+collections-extended
+
+# Plotting and visualization
+matplotlib>=3.8.0
+
+# Google Colab integration and file management
+google-colab>=1.0.0
