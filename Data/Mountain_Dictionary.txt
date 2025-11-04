@@ -1,0 +1,359 @@
+Carpathians (Ukrainian Carpathians):
+Hoverla
+Pip Ivan
+Petros
+Brebeneskul
+Turkul
+Dzembronia
+Menchul
+Rebra
+Smotrych
+Chornohora
+
+Crimean Mountains:
+Roman-Kosh
+Ai-Petri
+Demerdzhi
+South Demerdzhi
+Chatyr-Dag
+Babugan-Yayla
+Karabi-Yayla
+Nikita Mountains
+Sokol
+Ayu-Dag
+
+Alps (Europe):
+Mont Blanc
+Matterhorn
+Monte Rosa
+Dom
+Weisshorn
+Eiger
+Jungfrau
+Grossglockner
+Zugspitze
+Gran Paradiso
+
+Pyrenees (Europe):
+Aneto
+Posets
+Monte Perdido
+Vignemale
+Pic du Midi d'Ossau
+Pica d'Estats
+Taillon
+Balaitús
+Maladeta
+La Munia
+
+Scandinavian Mountains (Europe):
+Galdhøpiggen
+Glittertind
+Store Skagastølstind
+Kebnekaise
+Sarektjåkka
+Halti
+Snøhetta
+Storsylen
+Helagsfjället
+Stetind
+
+Balkan & Dinaric Alps (Europe):
+Mount Musala
+Mount Olympus
+Vihren
+Korab
+Maja Jezercë
+Durmitor
+Maglić
+Triglav
+Bobotov Kuk
+Šar Planina
+
+British Isles & Scottish Highlands (Europe):
+Ben Nevis
+Ben Macdui
+Braeriach
+Snowdon
+Scafell Pike
+Carrauntoohil
+Sgurr Alasdair
+Liathach
+Schiehallion
+Ben Hope
+
+Caucasus (Asia):
+Elbrus
+Dykh-Tau
+Shkhara
+Kazbek
+Ushba
+Tetnuldi
+Gestola
+Donguzorun
+Janga
+Koshtan-Tau
+
+Himalayas (Asia):
+Everest
+Kangchenjunga
+Lhotse
+Makalu
+Cho Oyu
+Dhaulagiri
+Manaslu
+Annapurna I
+Shishapangma
+Ama Dablam
+
+Karakoram (Asia):
+K2
+Gasherbrum I
+Gasherbrum II
+Broad Peak
+Gasherbrum IV
+Masherbrum
+Chogolisa
+Baltoro Kangri
+Muztagh Tower
+Latok I
+
+Hindu Kush & Pamir (Asia):
+Tirich Mir
+Noshaq
+Istor-o-Nal
+Saraghrar
+Kongur Tagh
+Muztagh Ata
+Ismoil Somoni Peak
+Lenin Peak
+Pik Korzhenevskaya
+Bandaka
+
+Tien Shan (Asia):
+Jengish Chokusu
+Pobeda Peak
+Khan Tengri
+Talgar Peak
+Korona Peak
+Bayankol Peak
+Komsomol Peak
+Nansen Peak
+Inylchek Peak
+Przhevalsky Peak
+
+Altai & Sayan (Asia):
+Belukha
+Munku-Sardyk
+Khüiten Peak
+Tavan Bogd
+Ergaki
+Kuznetsk Alatau
+Ukok Plateau
+Aktru
+Mönkh Saridag
+Khekhtsir
+
+Zagros & Alborz (Asia):
+Damavand
+Alam Kuh
+Takhte Soleyman
+Sabalán
+Hezar
+Dena
+Oshtorankuh
+Zard-Kuh
+Taftan
+Sahand
+
+Japan & Kamchatka (Asia):
+Mount Fuji
+Mount Kita
+Mount Hotaka
+Mount Tate
+Mount Ontake
+Asahidake
+Yotei
+Rishiri
+Klyuchevskaya Sopka
+Tokachi-dake
+
+Southeast Asia Ranges (Asia):
+Hkakabo Razi
+Phu Si Lung
+Fan Si Pan
+Doi Inthanon
+Kinabalu
+Trusmadi
+Mount Apo
+Pulag
+Rinjani
+Kerinci
+
+Atlas Mountains (Africa):
+Toubkal
+Ouanoukrim
+Ighil M'Goun
+Jebel Sirwa
+Jebel Ayachi
+Ras Ouanoukrim
+Timesguida n'Ouanoukrim
+Aklim
+Aures
+Rif Mountains
+
+East African Highlands (Africa):
+Kilimanjaro
+Mount Kenya
+Mount Elgon
+Mount Meru
+Simien Mountains
+Ras Dashen
+Bale Mountains
+Tullu Dimtu
+Aberdare Range
+Mount Longonot
+
+Rwenzori & Virunga (Africa):
+Margherita Peak
+Mount Stanley
+Mount Speke
+Mount Baker
+Karisimbi
+Mikeno
+Bisoke
+Nyiragongo
+Muhabura
+Sabyinyo
+
+Drakensberg (Africa):
+Mafadi
+Champagne Castle
+Giant's Castle
+Thabana Ntlenyana
+Mont-aux-Sources
+Cathedral Peak
+Injisuthi Dome
+Njesuthi
+Sentinel Peak
+Devil's Tooth
+
+Rocky Mountains (North America):
+Mount Elbert
+Mount Massive
+Mount Harvard
+Longs Peak
+Pikes Peak
+Gannet Peak
+Grand Teton
+Mount Robson
+Mount Columbia (Canada)
+Mount Assiniboine
+
+Sierra Nevada & Cascades (North America):
+Mount Whitney
+Mount Williamson
+Mount Shasta
+Lassen Peak
+Mount Rainier
+Mount St. Helens
+Mount Adams
+Mount Hood
+Mount Jefferson
+Glacier Peak
+
+Alaska & Coast Mountains (North America):
+Denali
+Mount Foraker
+Mount Hunter
+Mount Saint Elias
+Mount Logan
+Mount Fairweather
+Mount Waddington
+Mount Marcus Baker
+Mount Bona
+Mount Blackburn
+
+Appalachian Mountains (North America):
+Mount Mitchell
+Clingmans Dome
+Grandfather Mountain
+Mount Washington
+Mount Katahdin
+Mount Mansfield
+Mount Marcy
+Whiteface Mountain
+Mount Lafayette
+Mount Rogers
+
+Andes (South America):
+Aconcagua
+Ojos del Salado
+Huascarán
+Chimborazo
+Cotopaxi
+Illimani
+Sajama
+Nevado del Ruiz
+Alpamayo
+Fitz Roy
+
+Brazilian & Guiana Highlands (South America):
+Pico da Neblina
+Pico 31 de Março
+Pico da Bandeira
+Serra do Mar
+Serra da Mantiqueira
+Serra do Espinhaço
+Mount Roraima
+Cerro Roraima
+Imeri Mountains
+Pacaraima Mountains
+
+Australia & Great Dividing Range (Australia/Oceania):
+Mount Kosciuszko
+Mount Townsend
+Mount Bogong
+Mount Feathertop
+Mount Hotham
+Mount Jagungal
+Blue Mountains
+Mount Bartle Frere
+Mount Bellenden Ker
+Mount Kaputar
+
+Australia Interior & Western Ranges (Australia):
+Uluru
+Kata Tjuta
+MacDonnell Ranges
+Hamersley Range
+Flinders Ranges
+Stirling Range
+Mount Meharry
+Mount Bruce
+Bungle Bungle Range
+Mount Augustus
+
+New Zealand (Oceania):
+Aoraki / Mount Cook
+Mount Tasman
+Mount Dampier
+Mount Aspiring
+Mount Sefton
+La Perouse
+Mount Lendenfeld
+Mount Hicks
+Mount Ruapehu
+Mount Taranaki
+
+Antarctica (Transantarctic & others):
+Vinson Massif
+Mount Tyree
+Shinn Peak
+Mount Kirkpatrick
+Mount Markham
+Mount Erebus
+Mount Terror
+Queen Maud Mountains
+Ellsworth Mountains
+Sentinel Range
