@@ -1,4 +1,5 @@
-# 🧠 Data Science Internship Test — Task 1 (NLP: Named Entity Recognition)
+# 🧠 Data Science Internship Test
+# Task 1 (NLP: Named Entity Recognition)
 
 This repository contains the **first task** from the _Data Science Internship Test_, focused on **Natural Language Processing (NLP)** and specifically on **Named Entity Recognition (NER)** for identifying _mountain names_ in text.  
 It demonstrates skills in dataset creation, model fine-tuning, evaluation, and reporting — fully aligned with the official task requirements.
