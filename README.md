@@ -195,13 +195,136 @@ Synthetic corpora, when engineered thoughtfully, can accelerate model prototypin
 
 ---
 
+> “Mountains teach persistence — and so does data.” 🏔
+
+# 🛰 Task 2 (Computer Vision: Sentinel-2 Image Matching)
+
+This repository contains the **second task** from the _Data Science Internship Test_, focused on **Computer Vision (CV)** and the development of an algorithm for **matching Sentinel-2 satellite images** captured in different seasons.  
+It demonstrates the use of both classical and deep-learning methods for keypoint detection, feature matching, and reproducible benchmarking.
+
+---
+
+## 🎯 Test Goal
+
+The objective of this task is to evaluate skills in:
+
+- **Satellite image preprocessing**
+- **Classical computer vision algorithms**
+- **Deep-learning feature matching**
+- **Result visualization and performance analysis**
+
+The implemented pipeline matches satellite scenes taken in different seasons and evaluates how well the algorithms handle lighting, color, and texture variations.
+
+---
+
+## 📘 Implementation Format
+
+All functionality is implemented within a **single reproducible Jupyter notebook** —  
+`Sentinel.ipynb` — which integrates algorithm design, interactive interface, and result visualization.
+
+Although the task specification mentions separate `.py` scripts, all steps (data loading, matching, evaluation, and visualization) are implemented directly in the notebook to ensure **transparency, modularity, and reusability**.
+
+---
+
+## 📑 Task Requirements (as stated in the test)
+
+- Prepare a **dataset** for keypoint detection and image matching.  
+- Build or train the **algorithm**.  
+- Prepare **demo code** or notebook showing inference results.
+
+### Expected Output:
+
+- ✅ Jupyter notebook explaining dataset preparation  
+- ✅ Link to the dataset (Google Drive or Kaggle)  
+- ✅ Python scripts or equivalent notebook cells for training/inference  
+- ✅ Visualization of keypoints and their matches  
+- ✅ Short performance report (PDF)
+
+---
+
+## 🧩 Project Structure
+
+```
+Computer-Vision/
+│
+├── Sentinel.ipynb                    # Complete notebook: algorithms, interface, and visualization
+├── requirements_cv.txt               # List of dependencies
+├── Sentinel_Image_Matching_Report.pdf   # Final report (EN)
+├── README.md                         # This file
+```
+
+---
+
+## ⚙️ Algorithms Implemented
+
+1. **ORB + RANSAC (Classical)**  
+   - Detects and matches keypoints using ORB descriptors.  
+   - Uses RANSAC to remove outliers and estimate homography.  
+   - Computes metrics: total matches, inlier ratio, reprojection error, runtime.
+
+2. **LoFTR (Deep Learning, Kornia)**  
+   - Pretrained “outdoor” LoFTR model used for robust matching under seasonal changes.  
+   - Evaluated with MAGSAC for inlier filtering.  
+   - Provides significantly higher accuracy and stability across different lighting conditions.
+
+---
+
+## 🗺 Dataset
+
+The experiments use **four Sentinel-2 scenes (Tile T36UYA)** representing the same region in different seasons:
+
+- 2016-02-12 — Winter (02)  
+- 2019-03-13 — Spring (03) 
+- 2019-06-01 — Summer (06)  
+- 2019-09-09 — Autumn (09)  
+
+📦 Dataset source:  
+**[Deforestation in Ukraine from Sentinel-2 data](https://www.kaggle.com/datasets/isaienkov/deforestation-in-ukraine)** on Kaggle.  
+
+📂 **Folder with `.jp2` files (Google Drive):**  
+[https://drive.google.com/drive/folders/1j7u9IsiKA4RF5gTftOiknp_pBX2NpiMk?usp=sharing](https://drive.google.com/drive/folders/1j7u9IsiKA4RF5gTftOiknp_pBX2NpiMk?usp=sharing)
+
+To run the notebook, download `.jp2` files from the dataset and place them in:  
+`/content/drive/MyDrive/Sentinel` (for Colab) or `./data/Sentinel` (for local).
+
+---
+
+## 📊 Evaluation Results
+
+| Image Pair | ORB: Inliers (%) | LoFTR: Inliers (%) | ORB Time (s) | LoFTR Time (s) |
+|-------------|------------------|---------------------|---------------|----------------|
+| 02–03 | 1.49 | 0.98 | 0.94 | 2.33 |
+| 03–06 | 1.00 | 0.99 | 0.60 | 0.79 |
+| 06–09 | 1.18 | 0.99 | 0.46 | 0.86 |
+| 02–09 | 2.06 | 0.98 | 0.45 | 0.83 |
+
+---
+
+## 💡 Key Insights
+
+- **ORB + RANSAC** performs poorly under strong seasonal variations (≤2% inliers).  
+- **LoFTR** maintains stable accuracy (0.98–0.99 inlier ratio) across all seasons.  
+- **Runtime** for LoFTR is within 0.8–2.3 seconds per image pair (1024×1024 px).  
+- The **interactive interface** allows easy selection and comparison of scenes, ensuring reproducibility.
+
+---
+
+## 🔧 Technologies Used
+
+- **Python 3.10+**  
+- **Rasterio**, **OpenCV**, **Kornia**, **PyTorch**, **NumPy**, **Matplotlib**  
+- **Google Colab** for execution and Drive integration
+
+---
+
 ## 🪪 Author
 
 **Halyna Trush**  
 📍 Junior Data Scientist | NLP & ML Enthusiast  
-📫 halyna.trush@example.com _(optional)_  
+📫 frolova.galka@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/halyna-trush)
 
 ---
 
-> “Mountains teach persistence — and so does data.” 🏔
+> “From pixels to patterns — seeing the seasons through data.” 🌍  
+
