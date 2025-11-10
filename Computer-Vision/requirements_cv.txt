@@ -1,0 +1,22 @@
+# Installing core libraries for Sentinel-2 image matching
+
+# Rasterio — for reading and handling Sentinel-2 .jp2 raster files
+rasterio>=1.3.9
+
+# Kornia — for deep feature matching (LoFTR model)
+kornia>=0.7.2
+
+# OpenCV — for classical feature detection (ORB) and image processing
+opencv-python>=4.10.0
+
+# PyTorch — backend for Kornia and deep learning inference
+torch>=2.1.0
+
+# NumPy — for numerical operations and array handling
+numpy>=1.24.0
+
+# Matplotlib — for visualization of Sentinel-2 scenes and keypoint matches
+matplotlib>=3.8.0
+
+# Google Colab integration (mounting Drive, file uploads)
+google-colab>=1.0.0
