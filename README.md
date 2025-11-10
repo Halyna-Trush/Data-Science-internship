@@ -250,7 +250,6 @@ Computer-Vision/
 ├── Sentinel.ipynb                    # Complete notebook: algorithms, interface, and visualization
 ├── requirements_cv.txt               # List of dependencies
 ├── Sentinel_Image_Matching_Report.pdf   # Final report (EN)
-├── README.md                         # This file
 ```
 
 ---
